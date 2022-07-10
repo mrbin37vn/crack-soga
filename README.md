@@ -19,7 +19,7 @@ Phiên bản này là phiên bản crack bẩn, các bạn tự học cách sử
 
 ## Cài đặt 
 ```
-bash <(curl -Ls https://raw.githubusercontent.com/DauDau432/crack-soga/main/install.sh)
+bash <(curl -Ls https://raw.githubusercontent.com/mrbin37nghean/crack-soga/main/install.sh)
 ```
 ## Đồng bộ thời gian 
 
